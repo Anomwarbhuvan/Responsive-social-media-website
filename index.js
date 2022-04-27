@@ -13,8 +13,7 @@ const messageSearch = document.querySelector('#message-search')
 
 const profile = document.querySelector('.profile');
 
-// THEME 
-
+// Theme
 const theme = document.querySelector('#theme');
 const themeModal = document.querySelector('.customize-theme')
 
